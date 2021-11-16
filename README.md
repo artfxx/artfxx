@@ -15,9 +15,5 @@
 ![passport](https://img.shields.io/badge/-passport-24292F?style=for-the-badge&logo=passport)
 ![antdesign](https://img.shields.io/badge/-ant&#32;design-24292F?style=for-the-badge&logo=antdesign)
 ![material-ui](https://img.shields.io/badge/-material&#32;ui-24292F?style=for-the-badge&logo=material-ui)
-<!-- ![webpack](https://img.shields.io/badge/-webpack-24292F?style=for-the-badge&logo=webpack) -->
-<!-- ![gulp](https://img.shields.io/badge/-gulp-24292F?style=for-the-badge&logo=gulp) -->
 ![postman](https://img.shields.io/badge/-postman-24292F?style=for-the-badge&logo=postman)
-<!-- ![docker](https://img.shields.io/badge/-docker-24292F?style=for-the-badge&logo=docker) -->
-<!-- ![jest](https://img.shields.io/badge/-jest-24292F?style=for-the-badge&logo=jest) -->
 ![styled-components](https://img.shields.io/badge/-styled&#32;components-24292F?style=for-the-badge&logo=styled-components)
